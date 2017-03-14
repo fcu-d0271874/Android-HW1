@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_296d7452c9bfce796a4dc3cde4f511039cfc66d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_673c5525601195edfa2d32873402dd93abe81d07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_0eff16bf841fa1a7287139964101f6a5d5d2e920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdf8ca887b2a951f998b23b6fd227563cccdfe49">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_09feb7189f73d0e0c550c4ad4ec0a0a0061ea34e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_0484d039b9750d3a0de282bbf022a202018912f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_c0b388548bb0de5328826aa8f7fcdf535d1b957f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_279af49290c09e75cf897621932815df23aff3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e204450296b84a8911615ab5bad66d67ffcfc21">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9eb5872f9aa947a151b2f980b6f0a4da864113e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_e8b233c53ca0f9688ce92cff3eaadce93dc931ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_bb00a0b3354f6ad3cc90ce55855315f8b0afbd4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_3b79eeaa6a9eb85a25a8bd5164f41db3fd02823f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_d273a5423dd152c9858d8701b95a8fc3649aea16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_bfd768a4c9fb92c18859905b786e8f00d37cdae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_f588fbe74c555c840bca97c46e74bab3ec1dc740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/ruan_mac/Documents/workspace/Android-HW1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_4ddf871bf81affb3f69be682c6bbe8019389c9dc/classes.dex" />
+    </item>
+
+</items>
